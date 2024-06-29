@@ -1,0 +1,24 @@
+.container{
+  padding: 10px;
+  border: 1px solid black;
+  width: 500px;
+}
+.findName {
+  font-size: 18px;
+  font-weight: 500;
+}
+.filterInput{
+  font-size: 14px;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.filterInput:hover{
+  font-size: 14px;
+  background: lightcyan;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
